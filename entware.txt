@@ -1,0 +1,4 @@
+busybox
+entware-opt
+qbittorrent
+amule
